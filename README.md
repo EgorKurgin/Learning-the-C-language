@@ -1,0 +1,6 @@
+Тут у меня лежат мои программы, которые я написал в процессе обучения на курсе https://www.youtube.com/watch?v=7YhRFx-oyW4&list=PL3BR09unfgchRxdDws74aY4mlSk9eYGEs
+
+
+Слайды к занятиям: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRmV4d1ZQQ09pTnFDZE5SWjlXSHNreXxBTl9pYzRkd2JCeVF0TnNULWhxWW5pTThjeWpGaC0waC1VVjJWbEl6cy1zb08wenZuN25zc3pudW1mTnBXa1dZQnpieVhzY0lobkE4VlZmTG9FVkF0WVUzZHB2UFFuMThHcmZM&q=https%3A%2F%2Fgithub.com%2Ftilir%2Fc-graduate%2Ftree%2Fmaster%2Fcoursework%2Fslides&v=7YhRFx-oyW4
+Примеры кода: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRmZFQ1FlXzN0TUx6M0dEcWstSVBpVHxBTl9pYzRjQTl0QXdtWEhlWmE3TnVjWXR6OS0tWUhPNEtFNVVJT3JoVFNHTXdzZHBjWU9OUnhGZmxTYXJ3RDM5MjJYUWxzSGpQb05Xd3Q5NXdCc3VfZHFlenhIYmJ2MHJrUDBG&q=https%3A%2F%2Fgithub.com%2Ftilir%2Fc-graduate&v=7YhRFx-oyW4
+Задачник: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRkVPWUp4UDZWb0FvaURVcGh3UkhZanxBTl9pYzRjcnhjYnNOYWd3b05uWkwxUVR0aDI2bm9ZWjIyaWU1QXFQTEdZZFNWLTZLdFFuR05JZXdrMEtVOXMzWHlZM2NUMlFOSEJ2eU5SVm56djZUNDRFOTZPcHhhX3pWV1hh&q=https%3A%2F%2Fcontest.yandex.ru%2Fcontest%2F66459%2Fenter&v=7YhRFx-oyW4
